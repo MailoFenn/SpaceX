@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    margin: 0;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    padding-top: 53px;
+}
+
+header {
+    display: flex;
+    max-width: 1231px;
+    width: 90%;
+    margin: auto;
+    justify-content: space-between;
+}
+
+.list {
+    display: flex;
+    list-style: none;
+}
+
+.nav-link {
+    margin: 0 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.sec {
+    color: #808080;
+}
